@@ -11,3 +11,6 @@ pip install -r "./req.txt" # Make sure to change this before running
 
 echo "Deactivating virtual environment..."
 deactivate
+
+#create a .env file for environment variables
+touch .env
