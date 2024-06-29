@@ -1,12 +1,12 @@
 # CSI API
 
-##Welcome to Car Generator/CSI API
+## Welcome to Car Generator/CSI API
 
-##Getting Started
+## Getting Started
 
 when on the home page, you should see "Welcome to CSI API", that means you're in the right place!
 
-##Generating Cars
+## Generating Cars
 
 1) To generate a single car, type `generate-license-plate` after the / in the address bar url
 - This will only generate a single lisence plate and have no other information
